@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dojazdomat-mcp",
+  "version": "1.0.0",
+  "description": "Remote MCP server for Warsaw commute time vs rent: transit minutes, rent medians and neighborhood rankings.",
+  "author": {
+    "name": "Mikołaj Sapek"
+  },
+  "homepage": "https://dojazdomat.pl",
+  "repository": "https://github.com/MikolajSapek/dojazdomat-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "warsaw",
+    "rent",
+    "commute",
+    "transit"
+  ]
+}

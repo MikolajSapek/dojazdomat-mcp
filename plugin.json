@@ -9,6 +9,7 @@
   "homepage": "https://dojazdomat.pl",
   "repository": "https://github.com/MikolajSapek/dojazdomat-mcp",
   "license": "MIT",
+  "logo": "logo.png",
   "keywords": [
     "mcp",
     "warsaw",
